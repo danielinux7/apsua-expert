@@ -1,10 +1,11 @@
+
 header {
     background-color: #fff;
 }
 
 .text-green {
-    color: rgb(40, 167, 69);
-    font-size: 1.4rem;
+    color: rgb(187, 105, 111);
+    font-size: 1.3rem;
 }
 
 @media (max-width: 355px) {
@@ -14,4 +15,3 @@ header {
 }
 
 }
-

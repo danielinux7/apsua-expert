@@ -1,5 +1,7 @@
 /* You can add global styles to this file, and also import other style files */
 /* Application-wide Styles */
+
+
 body {
   background-color: #f5f5f5;
   color: #777;
@@ -65,7 +67,7 @@ body {
 }
 
 .md-green {
-  color: rgba(40, 167, 69, 0.54);
+  color: rgba(187, 105, 111, 0.54);
 }
 
 .material-icons.md-36 {
@@ -123,17 +125,6 @@ body {
   background-image: url('assets/images/logo.png');
 }
 
-.logo-exp {
-  display: block;
-  background: #fff;
-  background-position: center center;
-  background-repeat: no-repeat;
-  background-size: 32px;
-  width: 32px;
-  height: 32px;
-  background-image: url('assets/images/logo-exp.png');
-}
-
 .law {
   background-image: url('assets/images/law.svg');
 }
@@ -151,7 +142,7 @@ body {
   .mobile {
     border-top: none;
     color: #fff;
-    background-color: rgb(40, 167, 69);
+    background-color: rgb(187, 105, 111);
     flex: none;
     max-width: none;
     min-height: 4em;
@@ -163,7 +154,7 @@ body {
 
   textarea#target, textarea#target:focus {
     color: #fff;
-    background-color: rgb(40, 167, 69);
+    background-color: rgb(187, 105, 111);
   }
 
   .header {
@@ -185,13 +176,13 @@ body {
   #lang-src-sm .lang {
     text-align: center;
     width: 100%;
-    color: rgb(40, 167, 69)
+    color: rgb(187, 105, 111)
   }
 
   #lang-tgt-sm .lang {
     text-align: center;
     width: 100%;
-    color: rgb(40, 167, 69)
+    color: rgb(187, 105, 111)
   }
 
   #source {

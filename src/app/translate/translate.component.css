@@ -3,7 +3,7 @@
 }
 
 .active {
-  border-bottom: .25em solid rgb(40, 167, 69);
+  border-bottom: .25em solid rgb(187, 105, 111);
 }
 
 .active-hand {
@@ -107,7 +107,7 @@
 }
 
 .downloadLink a {
-  color: rgb(40, 167, 69);
+  color: rgb(187, 105, 111);
   display: inline-block;
 }
 
@@ -116,7 +116,7 @@
 }
 
 .button {
-  background: rgba(40, 167, 69);
+  background: rgba(187, 105, 111);
   border-radius: 4px;
   box-sizing: border-box;
   color: #fff;
@@ -130,6 +130,10 @@
   height: 36px;
   padding: 10px 12px;
   margin: 26px 16px 0;
+}
+
+.btn-success {
+  background: rgba(187, 105, 111);
 }
 
 /*  */
@@ -146,7 +150,7 @@
 .translate-type button {
   border: 1px solid #dadce0;
   background-color: #fff;
-  color: rgb(40, 167, 69);
+  color: rgb(187, 105, 111);
 }
 
 .btn:hover {
@@ -154,7 +158,7 @@
 }
 
 .translate-type .active {
-  background-color: rgb(40, 167, 69, 0.2);
+  background-color: rgb(187, 105, 111, 0.2);
 }
 
 .btn:focus {
