@@ -133,8 +133,18 @@
 }
 
 .btn-success {
-  background: rgba(187, 105, 111);
+    background-color: rgba(187, 105, 111) !important;
+    border-color: rgba(187, 105, 111) !important;
 }
+
+.btn-success:hover,
+.btn-success:active,
+.btn-success:visited,
+.btn-success:focus {
+    background-color: rgb(152, 80, 85) !important;
+    border-color: rgba(187, 105, 111) !important;
+}
+
 
 /*  */
 .mr-12px {
